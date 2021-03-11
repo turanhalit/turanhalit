@@ -1,8 +1,5 @@
  Hi there 👋
 
-<!--
-**turanhalit/turanhalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **<h1 align="center">Hi 👋, I'm Halitcan Turan</h1>
 **<h3 align="center">I'm a computer engineer student at Eskişehir Osmangazi University</h3>
 
